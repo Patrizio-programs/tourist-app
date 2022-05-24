@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e39f0707.css",
-    "main.js": "/static/js/main.ffe3929e.js",
+    "main.css": "/static/css/main.4a6325ca.css",
+    "main.js": "/static/js/main.43fc9f91.js",
     "static/media/header-banner-img.jpg": "/static/media/header-banner-img.7ed4a7b9667a3c0264c1.jpg",
     "static/media/slide2.jpg": "/static/media/slide2.c2ad26f3e268c8745976.jpg",
     "static/media/slide1.jpg": "/static/media/slide1.d5146cae48c4ad734d27.jpg",
@@ -12,11 +12,11 @@
     "static/media/caribbean.png": "/static/media/caribbean.db47c2bc2e16032cf111.png",
     "static/media/booking-img.jpg": "/static/media/booking-img.2198ad81e49ae614f05c.jpg",
     "index.html": "/index.html",
-    "main.e39f0707.css.map": "/static/css/main.e39f0707.css.map",
-    "main.ffe3929e.js.map": "/static/js/main.ffe3929e.js.map"
+    "main.4a6325ca.css.map": "/static/css/main.4a6325ca.css.map",
+    "main.43fc9f91.js.map": "/static/js/main.43fc9f91.js.map"
   },
   "entrypoints": [
-    "static/css/main.e39f0707.css",
-    "static/js/main.ffe3929e.js"
+    "static/css/main.4a6325ca.css",
+    "static/js/main.43fc9f91.js"
   ]
 }
